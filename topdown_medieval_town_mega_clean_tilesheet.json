@@ -1,0 +1,3323 @@
+{
+  "type": "regular-grid-tilesheet",
+  "image": "topdown_medieval_town_mega_clean_tilesheet.png",
+  "count": 144,
+  "columns": 8,
+  "rows": 18,
+  "cell_width": 368,
+  "cell_height": 336,
+  "tiles": [
+    {
+      "name": "water_well_roof",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_water_well_roof_01.png",
+      "row": 0,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 0,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 53,
+        "y": 57,
+        "width": 261,
+        "height": 279
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "chicken_coop_wooden",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_chicken_coop_wooden_01.png",
+      "row": 0,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 0,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 375,
+        "y": 35,
+        "width": 353,
+        "height": 301
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "hay_cart_two_wheel",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_hay_cart_two_wheel_01.png",
+      "row": 0,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 0,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 765,
+        "y": 83,
+        "width": 310,
+        "height": 253
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "firewood_pile_stacked",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_firewood_pile_stacked_01.png",
+      "row": 0,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 0,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1153,
+        "y": 99,
+        "width": 270,
+        "height": 237
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "hay_bale_round",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_hay_bale_round_01.png",
+      "row": 0,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 0,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1531,
+        "y": 108,
+        "width": 250,
+        "height": 228
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "fence_wattle_segment",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_fence_wattle_segment_01.png",
+      "row": 0,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 0,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1886,
+        "y": 109,
+        "width": 276,
+        "height": 227
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "clothesline_posts",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_clothesline_posts_01.png",
+      "row": 0,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 0,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2255,
+        "y": 83,
+        "width": 273,
+        "height": 253
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "garden_plot_vegetables",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_garden_plot_vegetables_01.png",
+      "row": 0,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 0,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2607,
+        "y": 104,
+        "width": 305,
+        "height": 232
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "outdoor_oven_clay",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_outdoor_oven_clay_01.png",
+      "row": 1,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 336,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 71,
+        "y": 439,
+        "width": 225,
+        "height": 233
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "grindstone_wheel_pedal",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_grindstone_wheel_pedal_01.png",
+      "row": 1,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 336,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 421,
+        "y": 445,
+        "width": 262,
+        "height": 227
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "beehive_skep_straw",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_beehive_skep_straw_01.png",
+      "row": 1,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 336,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 816,
+        "y": 425,
+        "width": 208,
+        "height": 247
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "dovecote_post_mounted",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_dovecote_post_mounted_01.png",
+      "row": 1,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 336,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1210,
+        "y": 403,
+        "width": 155,
+        "height": 269
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "rain_barrel_wooden",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_rain_barrel_wooden_01.png",
+      "row": 1,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 336,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1554,
+        "y": 410,
+        "width": 203,
+        "height": 262
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "handcart_single_axle",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_handcart_single_axle_01.png",
+      "row": 1,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 336,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1863,
+        "y": 446,
+        "width": 322,
+        "height": 226
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "shrine_roadside_stone",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_shrine_roadside_stone_01.png",
+      "row": 1,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 336,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2294,
+        "y": 391,
+        "width": 196,
+        "height": 281
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "signpost_wooden_blank",
+      "category": "village_fixtures",
+      "file": "Tiles/VillageFixtures/medieval_village_fixtures_signpost_wooden_blank_01.png",
+      "row": 1,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 336,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2664,
+        "y": 418,
+        "width": 192,
+        "height": 254
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "wooden_bucket_rope",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_wooden_bucket_rope_01.png",
+      "row": 2,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 672,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 84,
+        "y": 793,
+        "width": 200,
+        "height": 215
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "milk_churn_lidded",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_milk_churn_lidded_01.png",
+      "row": 2,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 672,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 471,
+        "y": 770,
+        "width": 161,
+        "height": 238
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "basket_woven_apples",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_basket_woven_apples_01.png",
+      "row": 2,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 672,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 816,
+        "y": 787,
+        "width": 208,
+        "height": 221
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "basket_woven_empty",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_basket_woven_empty_01.png",
+      "row": 2,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 672,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1191,
+        "y": 796,
+        "width": 193,
+        "height": 212
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "clay_pot_group",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_clay_pot_group_01.png",
+      "row": 2,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 672,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1529,
+        "y": 796,
+        "width": 254,
+        "height": 212
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "sack_grain_tied",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_sack_grain_tied_01.png",
+      "row": 2,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 672,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1940,
+        "y": 810,
+        "width": 167,
+        "height": 198
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "sack_pile_leaning",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_sack_pile_leaning_01.png",
+      "row": 2,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 672,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2271,
+        "y": 793,
+        "width": 242,
+        "height": 215
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "wheelbarrow_wooden",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_wheelbarrow_wooden_01.png",
+      "row": 2,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 672,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2628,
+        "y": 790,
+        "width": 264,
+        "height": 218
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "chopping_block_axe",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_chopping_block_axe_01.png",
+      "row": 3,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 1008,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 75,
+        "y": 1100,
+        "width": 217,
+        "height": 244
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "hay_pile_loose",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_hay_pile_loose_01.png",
+      "row": 3,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 1008,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 423,
+        "y": 1159,
+        "width": 258,
+        "height": 185
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "wooden_stool_three_leg",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_wooden_stool_three_leg_01.png",
+      "row": 3,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 1008,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 837,
+        "y": 1151,
+        "width": 165,
+        "height": 193
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "bench_rough_plank",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_bench_rough_plank_01.png",
+      "row": 3,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 1008,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1162,
+        "y": 1151,
+        "width": 252,
+        "height": 193
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "barrel_water_open",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_barrel_water_open_01.png",
+      "row": 3,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 1008,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1561,
+        "y": 1123,
+        "width": 190,
+        "height": 221
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "pitchfork_leaning_stand",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_pitchfork_leaning_stand_01.png",
+      "row": 3,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 1008,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1942,
+        "y": 1065,
+        "width": 163,
+        "height": 279
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "scarecrow_cross_frame",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_scarecrow_cross_frame_01.png",
+      "row": 3,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 1008,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2271,
+        "y": 1108,
+        "width": 242,
+        "height": 236
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "stone_pile_field",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_stone_pile_field_01.png",
+      "row": 3,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 1008,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2654,
+        "y": 1174,
+        "width": 211,
+        "height": 170
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "log_pile_short",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_log_pile_short_01.png",
+      "row": 4,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 1344,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 56,
+        "y": 1472,
+        "width": 255,
+        "height": 208
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "chicken_feed_trough",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_chicken_feed_trough_01.png",
+      "row": 4,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 1344,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 428,
+        "y": 1497,
+        "width": 248,
+        "height": 183
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "wash_tub_board",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_wash_tub_board_01.png",
+      "row": 4,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 1344,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 810,
+        "y": 1478,
+        "width": 220,
+        "height": 202
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "broom_twig_standing",
+      "category": "village_props",
+      "file": "Tiles/VillageProps/medieval_village_props_broom_twig_standing_01.png",
+      "row": 4,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 1344,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1210,
+        "y": 1409,
+        "width": 156,
+        "height": 271
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "stall_canopy_vegetables",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_stall_canopy_vegetables_01.png",
+      "row": 4,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 1344,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1520,
+        "y": 1366,
+        "width": 271,
+        "height": 314
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "stall_canopy_fabric_rolls",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_stall_canopy_fabric_rolls_01.png",
+      "row": 4,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 1344,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1890,
+        "y": 1369,
+        "width": 268,
+        "height": 311
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "stall_canopy_pottery",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_stall_canopy_pottery_01.png",
+      "row": 4,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 1344,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2258,
+        "y": 1366,
+        "width": 268,
+        "height": 314
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "stall_fish_table_ice",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_stall_fish_table_ice_01.png",
+      "row": 4,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 1344,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2616,
+        "y": 1432,
+        "width": 287,
+        "height": 248
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "stall_bread_baskets",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_stall_bread_baskets_01.png",
+      "row": 5,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 1680,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 43,
+        "y": 1691,
+        "width": 282,
+        "height": 325
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "counter_butcher_hanging",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_counter_butcher_hanging_01.png",
+      "row": 5,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 1680,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 419,
+        "y": 1691,
+        "width": 266,
+        "height": 325
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "crate_produce_stack",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_crate_produce_stack_01.png",
+      "row": 5,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 1680,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 781,
+        "y": 1751,
+        "width": 278,
+        "height": 265
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "barrel_pickles_open",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_barrel_pickles_open_01.png",
+      "row": 5,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 1680,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1190,
+        "y": 1780,
+        "width": 196,
+        "height": 236
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "hanging_scale_brass",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_hanging_scale_brass_01.png",
+      "row": 5,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 1680,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1537,
+        "y": 1743,
+        "width": 237,
+        "height": 273
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "coin_chest_small_open",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_coin_chest_small_open_01.png",
+      "row": 5,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 1680,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1904,
+        "y": 1732,
+        "width": 240,
+        "height": 284
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "rug_market_woven",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_rug_market_woven_01.png",
+      "row": 5,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 1680,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2237,
+        "y": 1809,
+        "width": 309,
+        "height": 207
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "spice_sacks_open_row",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_spice_sacks_open_row_01.png",
+      "row": 5,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 1680,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2611,
+        "y": 1807,
+        "width": 297,
+        "height": 209
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "cheese_wheel_stack",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_cheese_wheel_stack_01.png",
+      "row": 6,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 2016,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 64,
+        "y": 2138,
+        "width": 239,
+        "height": 214
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "banner_pole_pennant",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_banner_pole_pennant_01.png",
+      "row": 6,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 2016,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 459,
+        "y": 2087,
+        "width": 185,
+        "height": 265
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "cage_chickens_wooden",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_cage_chickens_wooden_01.png",
+      "row": 6,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 2016,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 786,
+        "y": 2111,
+        "width": 267,
+        "height": 241
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "amphora_group_leaning",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_amphora_group_leaning_01.png",
+      "row": 6,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 2016,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1179,
+        "y": 2113,
+        "width": 217,
+        "height": 239
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "table_goods_cloth",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_table_goods_cloth_01.png",
+      "row": 6,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 2016,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1502,
+        "y": 2110,
+        "width": 307,
+        "height": 242
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "weighing_table_balance",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_weighing_table_balance_01.png",
+      "row": 6,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 2016,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1882,
+        "y": 2092,
+        "width": 284,
+        "height": 260
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "torch_post_market",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_torch_post_market_01.png",
+      "row": 6,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 2016,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2327,
+        "y": 2067,
+        "width": 129,
+        "height": 285
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "notice_board_standing",
+      "category": "market",
+      "file": "Tiles/Market/medieval_market_notice_board_standing_01.png",
+      "row": 6,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 2016,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2633,
+        "y": 2077,
+        "width": 253,
+        "height": 275
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "bar_counter_straight",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_bar_counter_straight_01.png",
+      "row": 7,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 2352,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 34,
+        "y": 2475,
+        "width": 300,
+        "height": 213
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "bar_counter_corner",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_bar_counter_corner_01.png",
+      "row": 7,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 2352,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 400,
+        "y": 2468,
+        "width": 304,
+        "height": 220
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "keg_rack_triple",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_keg_rack_triple_01.png",
+      "row": 7,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 2352,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 776,
+        "y": 2431,
+        "width": 287,
+        "height": 257
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "barrel_ale_tapped",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_barrel_ale_tapped_01.png",
+      "row": 7,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 2352,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1201,
+        "y": 2477,
+        "width": 173,
+        "height": 211
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "fireplace_stone_hearth",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_fireplace_stone_hearth_01.png",
+      "row": 7,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 2352,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1525,
+        "y": 2413,
+        "width": 262,
+        "height": 275
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "long_table_plank",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_long_table_plank_01.png",
+      "row": 7,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 2352,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1867,
+        "y": 2458,
+        "width": 314,
+        "height": 230
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "bench_long_matching",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_bench_long_matching_01.png",
+      "row": 7,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 2352,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2253,
+        "y": 2497,
+        "width": 278,
+        "height": 191
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "chair_ladder_back",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_chair_ladder_back_01.png",
+      "row": 7,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 2352,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2679,
+        "y": 2442,
+        "width": 162,
+        "height": 246
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "round_table_small",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_round_table_small_01.png",
+      "row": 8,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 2688,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 72,
+        "y": 2815,
+        "width": 223,
+        "height": 209
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "candelabra_standing",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_candelabra_standing_01.png",
+      "row": 8,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 2688,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 496,
+        "y": 2762,
+        "width": 111,
+        "height": 262
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "chandelier_wheel_candles",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_chandelier_wheel_candles_01.png",
+      "row": 8,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 2688,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 800,
+        "y": 2791,
+        "width": 240,
+        "height": 233
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "trophy_stag_head_plaque",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_trophy_stag_head_plaque_01.png",
+      "row": 8,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 2688,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1202,
+        "y": 2793,
+        "width": 172,
+        "height": 231
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "bard_stool_lute",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_bard_stool_lute_01.png",
+      "row": 8,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 2688,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1560,
+        "y": 2796,
+        "width": 192,
+        "height": 228
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "serving_tray_mugs",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_serving_tray_mugs_01.png",
+      "row": 8,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 2688,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1887,
+        "y": 2844,
+        "width": 273,
+        "height": 180
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "stew_pot_hanging",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_stew_pot_hanging_01.png",
+      "row": 8,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 2688,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2283,
+        "y": 2791,
+        "width": 217,
+        "height": 233
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "wine_shelf_bottles",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_wine_shelf_bottles_01.png",
+      "row": 8,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 2688,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2638,
+        "y": 2757,
+        "width": 243,
+        "height": 267
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "mug_group_wooden",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_mug_group_wooden_01.png",
+      "row": 9,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 3024,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 57,
+        "y": 3141,
+        "width": 254,
+        "height": 219
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "food_platter_bread_cheese",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_food_platter_bread_cheese_01.png",
+      "row": 9,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 3024,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 425,
+        "y": 3189,
+        "width": 254,
+        "height": 171
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "rug_tavern_worn",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_rug_tavern_worn_01.png",
+      "row": 9,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 3024,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 756,
+        "y": 3160,
+        "width": 327,
+        "height": 200
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "innkeeper_ledger_stand",
+      "category": "tavern",
+      "file": "Tiles/Tavern/medieval_tavern_innkeeper_ledger_stand_01.png",
+      "row": 9,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 3024,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1182,
+        "y": 3114,
+        "width": 211,
+        "height": 246
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "forge_stone_coal_glow",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_forge_stone_coal_glow_01.png",
+      "row": 9,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 3024,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1533,
+        "y": 3054,
+        "width": 245,
+        "height": 306
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "anvil_horn_block",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_anvil_horn_block_01.png",
+      "row": 9,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 3024,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1906,
+        "y": 3115,
+        "width": 235,
+        "height": 245
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "quench_barrel_steam",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_quench_barrel_steam_01.png",
+      "row": 9,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 3024,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2296,
+        "y": 3145,
+        "width": 191,
+        "height": 215
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "bellows_large_lever",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_bellows_large_lever_01.png",
+      "row": 9,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 3024,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2641,
+        "y": 3095,
+        "width": 238,
+        "height": 265
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "weapon_rack_swords",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_weapon_rack_swords_01.png",
+      "row": 10,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 3360,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 46,
+        "y": 3416,
+        "width": 276,
+        "height": 280
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "weapon_rack_polearms",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_weapon_rack_polearms_01.png",
+      "row": 10,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 3360,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 429,
+        "y": 3402,
+        "width": 245,
+        "height": 294
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "armor_stand_breastplate",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_armor_stand_breastplate_01.png",
+      "row": 10,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 3360,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 841,
+        "y": 3422,
+        "width": 157,
+        "height": 274
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "shield_stack_leaning",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_shield_stack_leaning_01.png",
+      "row": 10,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 3360,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1167,
+        "y": 3474,
+        "width": 241,
+        "height": 222
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "tool_wall_board_tongs",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_tool_wall_board_tongs_01.png",
+      "row": 10,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 3360,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1542,
+        "y": 3433,
+        "width": 228,
+        "height": 263
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "hammer_set_bench",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_hammer_set_bench_01.png",
+      "row": 10,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 3360,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1881,
+        "y": 3470,
+        "width": 285,
+        "height": 226
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "grinding_wheel_water",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_grinding_wheel_water_01.png",
+      "row": 10,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 3360,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2262,
+        "y": 3463,
+        "width": 260,
+        "height": 233
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "ingot_stack_iron",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_ingot_stack_iron_01.png",
+      "row": 10,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 3360,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2638,
+        "y": 3511,
+        "width": 244,
+        "height": 185
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "coal_pile_shovel",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_coal_pile_shovel_01.png",
+      "row": 11,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 3696,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 53,
+        "y": 3822,
+        "width": 261,
+        "height": 210
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "horseshoe_crate_full",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_horseshoe_crate_full_01.png",
+      "row": 11,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 3696,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 420,
+        "y": 3814,
+        "width": 264,
+        "height": 218
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "chain_bundle_hook",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_chain_bundle_hook_01.png",
+      "row": 11,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 3696,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 840,
+        "y": 3787,
+        "width": 160,
+        "height": 245
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "helmet_row_shelf",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_helmet_row_shelf_01.png",
+      "row": 11,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 3696,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1135,
+        "y": 3801,
+        "width": 305,
+        "height": 231
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "sword_finished_table",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_sword_finished_table_01.png",
+      "row": 11,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 3696,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1508,
+        "y": 3808,
+        "width": 296,
+        "height": 224
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "cart_wheel_repair_leaning",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_cart_wheel_repair_leaning_01.png",
+      "row": 11,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 3696,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1919,
+        "y": 3806,
+        "width": 209,
+        "height": 226
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "scrap_metal_bin",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_scrap_metal_bin_01.png",
+      "row": 11,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 3696,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2270,
+        "y": 3827,
+        "width": 243,
+        "height": 205
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "workbench_smith_vise",
+      "category": "blacksmith",
+      "file": "Tiles/Blacksmith/medieval_blacksmith_workbench_smith_vise_01.png",
+      "row": 11,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 3696,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2597,
+        "y": 3776,
+        "width": 325,
+        "height": 256
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "treasure_chest_closed",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_treasure_chest_closed_01.png",
+      "row": 12,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 4032,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 58,
+        "y": 4134,
+        "width": 252,
+        "height": 234
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "treasure_chest_open_gold",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_treasure_chest_open_gold_01.png",
+      "row": 12,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 4032,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 418,
+        "y": 4085,
+        "width": 268,
+        "height": 283
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "quest_board_parchment_blank",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_quest_board_parchment_blank_01.png",
+      "row": 12,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 4032,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 769,
+        "y": 4069,
+        "width": 301,
+        "height": 299
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "torch_wall_bracket",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_torch_wall_bracket_01.png",
+      "row": 12,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 4032,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1197,
+        "y": 4075,
+        "width": 181,
+        "height": 293
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "banner_hanging_blank",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_banner_hanging_blank_01.png",
+      "row": 12,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 4032,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1553,
+        "y": 4062,
+        "width": 206,
+        "height": 306
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "potion_shelf_bottles",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_potion_shelf_bottles_01.png",
+      "row": 12,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 4032,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1887,
+        "y": 4057,
+        "width": 273,
+        "height": 311
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "scroll_pile_desk",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_scroll_pile_desk_01.png",
+      "row": 12,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 4032,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2248,
+        "y": 4100,
+        "width": 288,
+        "height": 268
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "cage_iron_hanging",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_cage_iron_hanging_01.png",
+      "row": 12,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 4032,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2672,
+        "y": 4074,
+        "width": 175,
+        "height": 294
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "pillory_stocks_wooden",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_pillory_stocks_wooden_01.png",
+      "row": 13,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 4368,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 45,
+        "y": 4424,
+        "width": 278,
+        "height": 280
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "gallows_post_rope",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_gallows_post_rope_01.png",
+      "row": 13,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 4368,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 450,
+        "y": 4395,
+        "width": 204,
+        "height": 309
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "campfire_ring_pot",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_campfire_ring_pot_01.png",
+      "row": 13,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 4368,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 777,
+        "y": 4431,
+        "width": 286,
+        "height": 273
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "tent_canvas_small",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_tent_canvas_small_01.png",
+      "row": 13,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 4368,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1123,
+        "y": 4439,
+        "width": 329,
+        "height": 265
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "cart_covered_wagon",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_cart_covered_wagon_01.png",
+      "row": 13,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 4368,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1514,
+        "y": 4417,
+        "width": 283,
+        "height": 287
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "barrel_gunpowder_marked",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_barrel_gunpowder_marked_01.png",
+      "row": 13,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 4368,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1923,
+        "y": 4440,
+        "width": 201,
+        "height": 264
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "crate_weapons_open",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_crate_weapons_open_01.png",
+      "row": 13,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 4368,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2260,
+        "y": 4402,
+        "width": 264,
+        "height": 302
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "brazier_iron_standing",
+      "category": "adventure",
+      "file": "Tiles/Adventure/medieval_adventure_brazier_iron_standing_01.png",
+      "row": 13,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 4368,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2667,
+        "y": 4407,
+        "width": 186,
+        "height": 297
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "oak_tree_round_crown",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_oak_tree_round_crown_01.png",
+      "row": 14,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 4704,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 34,
+        "y": 4708,
+        "width": 300,
+        "height": 332
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "pine_tree_tall",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_pine_tree_tall_01.png",
+      "row": 14,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 4704,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 458,
+        "y": 4715,
+        "width": 188,
+        "height": 325
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "tree_stump_axe_rings",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_tree_stump_axe_rings_01.png",
+      "row": 14,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 4704,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 782,
+        "y": 4811,
+        "width": 275,
+        "height": 229
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "bush_round_green",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_bush_round_green_01.png",
+      "row": 14,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 4704,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1154,
+        "y": 4801,
+        "width": 268,
+        "height": 239
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "bush_berry_red",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_bush_berry_red_01.png",
+      "row": 14,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 4704,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1519,
+        "y": 4790,
+        "width": 273,
+        "height": 250
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "boulder_moss_large",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_boulder_moss_large_01.png",
+      "row": 14,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 4704,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1883,
+        "y": 4795,
+        "width": 281,
+        "height": 245
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "rock_group_small",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_rock_group_small_01.png",
+      "row": 14,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 4704,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2293,
+        "y": 4834,
+        "width": 198,
+        "height": 206
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "flower_patch_wild",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_flower_patch_wild_01.png",
+      "row": 14,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 4704,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2612,
+        "y": 4790,
+        "width": 296,
+        "height": 250
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "mushroom_ring_brown",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_mushroom_ring_brown_01.png",
+      "row": 15,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 5040,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 46,
+        "y": 5173,
+        "width": 276,
+        "height": 203
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "pond_small_lily",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_pond_small_lily_01.png",
+      "row": 15,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 5040,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 397,
+        "y": 5127,
+        "width": 310,
+        "height": 249
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "stream_stepping_stones",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_stream_stepping_stones_01.png",
+      "row": 15,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 5040,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 768,
+        "y": 5131,
+        "width": 303,
+        "height": 245
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "fallen_log_moss",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_fallen_log_moss_01.png",
+      "row": 15,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 5040,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1144,
+        "y": 5170,
+        "width": 288,
+        "height": 206
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "grass_tuft_tall",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_grass_tuft_tall_01.png",
+      "row": 15,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 5040,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1526,
+        "y": 5135,
+        "width": 259,
+        "height": 241
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "ivy_patch_ground",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_ivy_patch_ground_01.png",
+      "row": 15,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 5040,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1880,
+        "y": 5155,
+        "width": 288,
+        "height": 221
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "bridge_wooden_arch",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_bridge_wooden_arch_01.png",
+      "row": 15,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 5040,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2250,
+        "y": 5133,
+        "width": 283,
+        "height": 243
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "lantern_post_iron",
+      "category": "nature",
+      "file": "Tiles/Nature/medieval_nature_lantern_post_iron_01.png",
+      "row": 15,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 5040,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2685,
+        "y": 5076,
+        "width": 150,
+        "height": 300
+      },
+      "anchor_in_cell": {
+        "x": 184,
+        "y": 320
+      }
+    },
+    {
+      "name": "floor_cobblestone_road",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_floor_cobblestone_road_01.png",
+      "row": 16,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 5376,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 35,
+        "y": 5417,
+        "width": 297,
+        "height": 295
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "floor_dirt_path",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_floor_dirt_path_01.png",
+      "row": 16,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 5376,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 403,
+        "y": 5417,
+        "width": 297,
+        "height": 295
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "floor_wood_plank_interior",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_floor_wood_plank_interior_01.png",
+      "row": 16,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 5376,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 771,
+        "y": 5417,
+        "width": 297,
+        "height": 295
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "floor_stone_slab_interior",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_floor_stone_slab_interior_01.png",
+      "row": 16,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 5376,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1139,
+        "y": 5417,
+        "width": 297,
+        "height": 295
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "wall_timber_frame_plaster",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_wall_timber_frame_plaster_01.png",
+      "row": 16,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 5376,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1507,
+        "y": 5417,
+        "width": 297,
+        "height": 295
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "wall_stone_rough",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_wall_stone_rough_01.png",
+      "row": 16,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 5376,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1875,
+        "y": 5418,
+        "width": 297,
+        "height": 294
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "wall_brick_medieval",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_wall_brick_medieval_01.png",
+      "row": 16,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 5376,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2243,
+        "y": 5418,
+        "width": 297,
+        "height": 294
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "wall_log_horizontal",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_wall_log_horizontal_01.png",
+      "row": 16,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 5376,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2611,
+        "y": 5417,
+        "width": 297,
+        "height": 295
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "gate_town_arch_wooden",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_gate_town_arch_wooden_01.png",
+      "row": 17,
+      "column": 0,
+      "cell": {
+        "x": 0,
+        "y": 5712,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 35,
+        "y": 5752,
+        "width": 297,
+        "height": 296
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "door_wooden_iron_hinges",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_door_wooden_iron_hinges_01.png",
+      "row": 17,
+      "column": 1,
+      "cell": {
+        "x": 368,
+        "y": 5712,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 403,
+        "y": 5752,
+        "width": 297,
+        "height": 296
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "door_double_barn",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_door_double_barn_01.png",
+      "row": 17,
+      "column": 2,
+      "cell": {
+        "x": 736,
+        "y": 5712,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 771,
+        "y": 5752,
+        "width": 297,
+        "height": 296
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "window_shuttered_wall",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_window_shuttered_wall_01.png",
+      "row": 17,
+      "column": 3,
+      "cell": {
+        "x": 1104,
+        "y": 5712,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1139,
+        "y": 5752,
+        "width": 297,
+        "height": 296
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "fence_picket_segment",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_fence_picket_segment_01.png",
+      "row": 17,
+      "column": 4,
+      "cell": {
+        "x": 1472,
+        "y": 5712,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1507,
+        "y": 5818,
+        "width": 297,
+        "height": 230
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "wall_low_stone_field",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_wall_low_stone_field_01.png",
+      "row": 17,
+      "column": 5,
+      "cell": {
+        "x": 1840,
+        "y": 5712,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 1875,
+        "y": 5827,
+        "width": 297,
+        "height": 221
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "roof_thatch_edge_strip",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_roof_thatch_edge_strip_01.png",
+      "row": 17,
+      "column": 6,
+      "cell": {
+        "x": 2208,
+        "y": 5712,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2243,
+        "y": 5791,
+        "width": 297,
+        "height": 257
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    },
+    {
+      "name": "wall_ivy_overgrown",
+      "category": "architecture",
+      "file": "Tiles/Architecture/medieval_architecture_wall_ivy_overgrown_01.png",
+      "row": 17,
+      "column": 7,
+      "cell": {
+        "x": 2576,
+        "y": 5712,
+        "width": 368,
+        "height": 336
+      },
+      "sprite": {
+        "x": 2611,
+        "y": 5792,
+        "width": 297,
+        "height": 256
+      },
+      "anchor_in_cell": {
+        "x": 183,
+        "y": 320
+      }
+    }
+  ]
+}
